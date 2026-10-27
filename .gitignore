@@ -1,0 +1,13 @@
+OLD_*
+figures_for_KET.py
+README.md
+exp6.log
+uv.lock
+figures/
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+.DS_Store
+.python-version
+src/
